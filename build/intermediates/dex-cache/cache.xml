@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Udemy\Android\FlappyBird\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb17433cd3cb138441b5524bafa599fbdda291e4">
+        <dex dex="D:\Udemy\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ed5c4a75aa095ff215b41e21f9e8bdcc6b4fb633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Udemy\Android\FlappyBird\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e9960df1bac4e9f2b0ca908e7e0712b460edf61">
+        <dex dex="D:\Udemy\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_133aef1f21fc5ebcc10f899e09e853a6d3b37c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.4\4b4b7962d1bc75af0438f5c81ec1010557bc9ee5\gdx-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="D:\Udemy\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.4_00221ca736c62171197da86aec3fd60e8ac576e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.4\194b33382d6d58fad031521ba3331d926c476c9b\gdx-backend-android-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="D:\Udemy\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.4_d4f7300ba4760cd9aa65146b340dcf814d07839a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ricar\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.4\98a0d25c9f0637fecac6e4aacf7287aa635964f5\gdx-box2d-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98a0d25c9f0637fecac6e4aacf7287aa635964f5">
+        <dex dex="D:\Udemy\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.4_83a61705014d96e956c31c31f23d06e9a6ff1be2\classes.dex" />
+    </item>
+
+</items>

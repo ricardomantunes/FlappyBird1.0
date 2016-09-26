@@ -1,0 +1,7 @@
+#Mon Sep 26 23:36:08 BST 2016
+base.0=D\:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed5c4a75aa095ff215b41e21f9e8bdcc6b4fb633
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_133aef1f21fc5ebcc10f899e09e853a6d3b37c94\\classes.dex
+base.1=D\:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_133aef1f21fc5ebcc10f899e09e853a6d3b37c94
+file.0=D\:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed5c4a75aa095ff215b41e21f9e8bdcc6b4fb633\\classes.dex

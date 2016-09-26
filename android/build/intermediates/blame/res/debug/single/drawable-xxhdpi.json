@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_flappybird.png",
+        "source": "D:\\Udemy\\Android\\FlappyBird\\android\\res\\drawable-xxhdpi\\ic_flappybird.png"
+    },
+    {
+        "merged": "D:\\Udemy\\Android\\FlappyBird\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Udemy\\Android\\FlappyBird\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
